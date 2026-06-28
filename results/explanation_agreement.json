@@ -1,0 +1,16 @@
+{
+  "method": "Jaccard similarity between top-5 coefficient and perturbation features",
+  "scores": [
+    0.429,
+    0.667,
+    0.429,
+    0.429,
+    0.429,
+    0.429,
+    0.429,
+    0.25,
+    0.429,
+    0.429
+  ],
+  "mean_jaccard": 0.435
+}

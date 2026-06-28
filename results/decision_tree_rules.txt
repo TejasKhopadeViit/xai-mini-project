@@ -1,0 +1,10 @@
+|--- pair: affiliation → id1instance <= 0.50
+|   |--- pair: affiliation → id3instance <= 0.50
+|   |   |--- pair: affiliation → id4instance <= 0.50
+|   |   |   |--- class: http://www.aifb.uni-karlsruhe.de/Forschungsgruppen/viewForschungsgruppeOWL/id2instance
+|   |   |--- pair: affiliation → id4instance >  0.50
+|   |   |   |--- class: http://www.aifb.uni-karlsruhe.de/Forschungsgruppen/viewForschungsgruppeOWL/id4instance
+|   |--- pair: affiliation → id3instance >  0.50
+|   |   |--- class: http://www.aifb.uni-karlsruhe.de/Forschungsgruppen/viewForschungsgruppeOWL/id3instance
+|--- pair: affiliation → id1instance >  0.50
+|   |--- class: http://www.aifb.uni-karlsruhe.de/Forschungsgruppen/viewForschungsgruppeOWL/id1instance

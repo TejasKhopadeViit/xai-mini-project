@@ -1,0 +1,38 @@
+{
+  "num_triples": 29226,
+  "num_subjects": 2829,
+  "num_predicates": 47,
+  "num_objects": 8096,
+  "num_uri_nodes": 2835,
+  "num_literals": 5450,
+  "top_10_node_types": {
+    "Publication": 1222,
+    "Person": 1045,
+    "InProceedings": 687,
+    "TechnicalReport": 169,
+    "Article": 161,
+    "Restriction": 152,
+    "ResearchTopic": 146,
+    "InCollection": 87,
+    "Project": 78,
+    "PhDStudent": 65
+  },
+  "top_10_predicates": {
+    "type": 4303,
+    "publication": 4163,
+    "author": 3986,
+    "isAbout": 2477,
+    "name": 1302,
+    "year": 1227,
+    "title": 1227,
+    "publishes": 1217,
+    "hasProject": 952,
+    "projectInfo": 952
+  },
+  "degree_stats": {
+    "mean": 10.330858960763521,
+    "median": 8.0,
+    "max": 951,
+    "min": 1
+  }
+}

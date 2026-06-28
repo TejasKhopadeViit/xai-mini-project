@@ -1,0 +1,462 @@
+[
+  {
+    "person": "http://www.aifb.uni-karlsruhe.de/Personen/viewPersonOWL/id1855instance",
+    "person_name": "Uwe Kersten",
+    "top_features": [
+      {
+        "feature": "pair__affiliation__id1instance",
+        "feature_readable": "pair: affiliation \u2192 id1instance",
+        "importance": 0.05219317667340564
+      },
+      {
+        "feature": "literal__homepage",
+        "feature_readable": "literal: homepage",
+        "importance": 0.0291122275214604
+      },
+      {
+        "feature": "literal__name",
+        "feature_readable": "literal: name",
+        "importance": 0.028205600811285
+      },
+      {
+        "feature": "out__name",
+        "feature_readable": "out: name",
+        "importance": 0.028000244461624694
+      },
+      {
+        "feature": "pair__type__Person",
+        "feature_readable": "pair: type \u2192 Person",
+        "importance": 0.027680550934859157
+      },
+      {
+        "feature": "out__affiliation",
+        "feature_readable": "out: affiliation",
+        "importance": 0.02722920744914894
+      },
+      {
+        "feature": "out__fax",
+        "feature_readable": "out: fax",
+        "importance": 0.026724452351834693
+      },
+      {
+        "feature": "literal__phone",
+        "feature_readable": "literal: phone",
+        "importance": 0.026390703232410842
+      }
+    ]
+  },
+  {
+    "person": "http://www.aifb.uni-karlsruhe.de/Personen/viewPersonOWL/id60instance",
+    "person_name": "Hans-Peter Schnurr",
+    "top_features": [
+      {
+        "feature": "pair__affiliation__id3instance",
+        "feature_readable": "pair: affiliation \u2192 id3instance",
+        "importance": 0.02218052630404596
+      },
+      {
+        "feature": "in__author",
+        "feature_readable": "in: author",
+        "importance": 0.018290939142361552
+      },
+      {
+        "feature": "objtype__publication__InProceedings",
+        "feature_readable": "objtype: publication \u2192 InProceedings",
+        "importance": 0.01809972779872859
+      },
+      {
+        "feature": "objtype__publication__TechnicalReport",
+        "feature_readable": "objtype: publication \u2192 TechnicalReport",
+        "importance": 0.017860808207267972
+      },
+      {
+        "feature": "pair__publication__id509instance",
+        "feature_readable": "pair: publication \u2192 id509instance",
+        "importance": 0.015073604662742336
+      },
+      {
+        "feature": "pair__publication__id248instance",
+        "feature_readable": "pair: publication \u2192 id248instance",
+        "importance": 0.014905078307415973
+      },
+      {
+        "feature": "type__Person",
+        "feature_readable": "type: Person",
+        "importance": 0.014749554046806402
+      },
+      {
+        "feature": "pair__publication__id7instance",
+        "feature_readable": "pair: publication \u2192 id7instance",
+        "importance": 0.014472853086418418
+      }
+    ]
+  },
+  {
+    "person": "http://www.aifb.uni-karlsruhe.de/Personen/viewPersonOWL/id37instance",
+    "person_name": "Daniel Merkle",
+    "top_features": [
+      {
+        "feature": "pair__affiliation__id2instance",
+        "feature_readable": "pair: affiliation \u2192 id2instance",
+        "importance": 0.03254327763961045
+      },
+      {
+        "feature": "objtype__publication__Article",
+        "feature_readable": "objtype: publication \u2192 Article",
+        "importance": 0.026870127281474403
+      },
+      {
+        "feature": "out__fax",
+        "feature_readable": "out: fax",
+        "importance": 0.02315974549337821
+      },
+      {
+        "feature": "literal__photo",
+        "feature_readable": "literal: photo",
+        "importance": 0.023057311786826715
+      },
+      {
+        "feature": "out__worksAtProject",
+        "feature_readable": "out: worksAtProject",
+        "importance": 0.022145421029606652
+      },
+      {
+        "feature": "in__isWorkedOnBy",
+        "feature_readable": "in: isWorkedOnBy",
+        "importance": 0.021974565337909206
+      },
+      {
+        "feature": "in__member",
+        "feature_readable": "in: member",
+        "importance": 0.021401897450558687
+      },
+      {
+        "feature": "literal__homepage",
+        "feature_readable": "literal: homepage",
+        "importance": 0.021046303179935485
+      }
+    ]
+  },
+  {
+    "person": "http://www.aifb.uni-karlsruhe.de/Personen/viewPersonOWL/id2078instance",
+    "person_name": "Steffen Lamparter",
+    "top_features": [
+      {
+        "feature": "pair__affiliation__id3instance",
+        "feature_readable": "pair: affiliation \u2192 id3instance",
+        "importance": 0.020958452290603426
+      },
+      {
+        "feature": "objtype__publication__InProceedings",
+        "feature_readable": "objtype: publication \u2192 InProceedings",
+        "importance": 0.019359665533083867
+      },
+      {
+        "feature": "in__author",
+        "feature_readable": "in: author",
+        "importance": 0.015649152095159075
+      },
+      {
+        "feature": "literal__photo",
+        "feature_readable": "literal: photo",
+        "importance": 0.01354681990381883
+      },
+      {
+        "feature": "objtype__publication__Article",
+        "feature_readable": "objtype: publication \u2192 Article",
+        "importance": 0.013402380597807557
+      },
+      {
+        "feature": "objtype__worksAtProject__Project",
+        "feature_readable": "objtype: worksAtProject \u2192 Project",
+        "importance": 0.013308105912574688
+      },
+      {
+        "feature": "objtype__publication__TechnicalReport",
+        "feature_readable": "objtype: publication \u2192 TechnicalReport",
+        "importance": 0.01329343111843189
+      },
+      {
+        "feature": "pair__publication__id1013instance",
+        "feature_readable": "pair: publication \u2192 id1013instance",
+        "importance": 0.013054506271228832
+      }
+    ]
+  },
+  {
+    "person": "http://www.aifb.uni-karlsruhe.de/Personen/viewPersonOWL/id1868instance",
+    "person_name": "Thomas Mochel",
+    "top_features": [
+      {
+        "feature": "pair__affiliation__id1instance",
+        "feature_readable": "pair: affiliation \u2192 id1instance",
+        "importance": 0.06446625677999404
+      },
+      {
+        "feature": "literal__fax",
+        "feature_readable": "literal: fax",
+        "importance": 0.03205332223020641
+      },
+      {
+        "feature": "pair__type__Person",
+        "feature_readable": "pair: type \u2192 Person",
+        "importance": 0.03156804931884097
+      },
+      {
+        "feature": "objtype__affiliation__ResearchGroup",
+        "feature_readable": "objtype: affiliation \u2192 ResearchGroup",
+        "importance": 0.030844245576291954
+      },
+      {
+        "feature": "type__Person",
+        "feature_readable": "type: Person",
+        "importance": 0.030284282850007647
+      },
+      {
+        "feature": "out__name",
+        "feature_readable": "out: name",
+        "importance": 0.02958440867691384
+      },
+      {
+        "feature": "out__affiliation",
+        "feature_readable": "out: affiliation",
+        "importance": 0.029003807458916668
+      },
+      {
+        "feature": "out__type",
+        "feature_readable": "out: type",
+        "importance": 0.028812360743535867
+      }
+    ]
+  },
+  {
+    "person": "http://www.aifb.uni-karlsruhe.de/Personen/viewPersonOWL/id32instance",
+    "person_name": "Nenad Stojanovic",
+    "top_features": [
+      {
+        "feature": "objtype__publication__InProceedings",
+        "feature_readable": "objtype: publication \u2192 InProceedings",
+        "importance": 0.022958157857377072
+      },
+      {
+        "feature": "pair__affiliation__id3instance",
+        "feature_readable": "pair: affiliation \u2192 id3instance",
+        "importance": 0.018427687371488338
+      },
+      {
+        "feature": "in__author",
+        "feature_readable": "in: author",
+        "importance": 0.01842639547469063
+      },
+      {
+        "feature": "pair__publication__id496instance",
+        "feature_readable": "pair: publication \u2192 id496instance",
+        "importance": 0.01580647074996708
+      },
+      {
+        "feature": "pair__publication__id110instance",
+        "feature_readable": "pair: publication \u2192 id110instance",
+        "importance": 0.015400899810747888
+      },
+      {
+        "feature": "pair__publication__id864instance",
+        "feature_readable": "pair: publication \u2192 id864instance",
+        "importance": 0.014864384505860662
+      },
+      {
+        "feature": "pair__publication__id1034instance",
+        "feature_readable": "pair: publication \u2192 id1034instance",
+        "importance": 0.014742719572268687
+      },
+      {
+        "feature": "pair__publication__id66instance",
+        "feature_readable": "pair: publication \u2192 id66instance",
+        "importance": 0.014731506355108842
+      }
+    ]
+  },
+  {
+    "person": "http://www.aifb.uni-karlsruhe.de/Personen/viewPersonOWL/id1989instance",
+    "person_name": "Bernhadr K\u00c3\u00b6lmel",
+    "top_features": [
+      {
+        "feature": "pair__affiliation__id1instance",
+        "feature_readable": "pair: affiliation \u2192 id1instance",
+        "importance": 0.06446625677999404
+      },
+      {
+        "feature": "literal__fax",
+        "feature_readable": "literal: fax",
+        "importance": 0.03205332223020641
+      },
+      {
+        "feature": "pair__type__Person",
+        "feature_readable": "pair: type \u2192 Person",
+        "importance": 0.03156804931884097
+      },
+      {
+        "feature": "objtype__affiliation__ResearchGroup",
+        "feature_readable": "objtype: affiliation \u2192 ResearchGroup",
+        "importance": 0.030844245576291954
+      },
+      {
+        "feature": "type__Person",
+        "feature_readable": "type: Person",
+        "importance": 0.030284282850007647
+      },
+      {
+        "feature": "out__name",
+        "feature_readable": "out: name",
+        "importance": 0.02958440867691384
+      },
+      {
+        "feature": "out__affiliation",
+        "feature_readable": "out: affiliation",
+        "importance": 0.029003807458916668
+      },
+      {
+        "feature": "out__type",
+        "feature_readable": "out: type",
+        "importance": 0.028812360743535867
+      }
+    ]
+  },
+  {
+    "person": "http://www.aifb.uni-karlsruhe.de/Personen/viewPersonOWL/id1876instance",
+    "person_name": "Andreas Oberweis",
+    "top_features": [
+      {
+        "feature": "pair__affiliation__id1instance",
+        "feature_readable": "pair: affiliation \u2192 id1instance",
+        "importance": 0.0163475771158883
+      },
+      {
+        "feature": "objtype__publication__InProceedings",
+        "feature_readable": "objtype: publication \u2192 InProceedings",
+        "importance": 0.016269665912715475
+      },
+      {
+        "feature": "pair__publication__id919instance",
+        "feature_readable": "pair: publication \u2192 id919instance",
+        "importance": 0.013097652547906123
+      },
+      {
+        "feature": "pair__publication__id581instance",
+        "feature_readable": "pair: publication \u2192 id581instance",
+        "importance": 0.01284102730629266
+      },
+      {
+        "feature": "pair__publication__id980instance",
+        "feature_readable": "pair: publication \u2192 id980instance",
+        "importance": 0.01274132457234678
+      },
+      {
+        "feature": "pair__worksAtProject__id77instance",
+        "feature_readable": "pair: worksAtProject \u2192 id77instance",
+        "importance": 0.012721090452805332
+      },
+      {
+        "feature": "pair__publication__id1194instance",
+        "feature_readable": "pair: publication \u2192 id1194instance",
+        "importance": 0.0126323156822836
+      },
+      {
+        "feature": "pair__publication__id951instance",
+        "feature_readable": "pair: publication \u2192 id951instance",
+        "importance": 0.012601021815589315
+      }
+    ]
+  },
+  {
+    "person": "http://www.aifb.uni-karlsruhe.de/Personen/viewPersonOWL/id2151instance",
+    "person_name": "Maik Herfurth",
+    "top_features": [
+      {
+        "feature": "pair__affiliation__id1instance",
+        "feature_readable": "pair: affiliation \u2192 id1instance",
+        "importance": 0.044992271722460585
+      },
+      {
+        "feature": "pair__worksAtProject__id79instance",
+        "feature_readable": "pair: worksAtProject \u2192 id79instance",
+        "importance": 0.019543797116518713
+      },
+      {
+        "feature": "literal__phone",
+        "feature_readable": "literal: phone",
+        "importance": 0.019310720964163853
+      },
+      {
+        "feature": "pair__type__Person",
+        "feature_readable": "pair: type \u2192 Person",
+        "importance": 0.018707481301859615
+      },
+      {
+        "feature": "type__Person",
+        "feature_readable": "type: Person",
+        "importance": 0.018573365677728923
+      },
+      {
+        "feature": "type__PhDStudent",
+        "feature_readable": "type: PhDStudent",
+        "importance": 0.018290118298302495
+      },
+      {
+        "feature": "out__affiliation",
+        "feature_readable": "out: affiliation",
+        "importance": 0.01807304720974943
+      },
+      {
+        "feature": "objtype__worksAtProject__Project",
+        "feature_readable": "objtype: worksAtProject \u2192 Project",
+        "importance": 0.01744742472145118
+      }
+    ]
+  },
+  {
+    "person": "http://www.aifb.uni-karlsruhe.de/Personen/viewPersonOWL/id1970instance",
+    "person_name": "Armin Fost",
+    "top_features": [
+      {
+        "feature": "pair__affiliation__id1instance",
+        "feature_readable": "pair: affiliation \u2192 id1instance",
+        "importance": 0.05219317667340564
+      },
+      {
+        "feature": "literal__homepage",
+        "feature_readable": "literal: homepage",
+        "importance": 0.0291122275214604
+      },
+      {
+        "feature": "literal__name",
+        "feature_readable": "literal: name",
+        "importance": 0.028205600811285
+      },
+      {
+        "feature": "out__name",
+        "feature_readable": "out: name",
+        "importance": 0.028000244461624694
+      },
+      {
+        "feature": "pair__type__Person",
+        "feature_readable": "pair: type \u2192 Person",
+        "importance": 0.027680550934859157
+      },
+      {
+        "feature": "out__affiliation",
+        "feature_readable": "out: affiliation",
+        "importance": 0.02722920744914894
+      },
+      {
+        "feature": "out__fax",
+        "feature_readable": "out: fax",
+        "importance": 0.026724452351834693
+      },
+      {
+        "feature": "literal__phone",
+        "feature_readable": "literal: phone",
+        "importance": 0.026390703232410842
+      }
+    ]
+  }
+]

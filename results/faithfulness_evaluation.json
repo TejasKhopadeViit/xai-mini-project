@@ -1,0 +1,11 @@
+{
+  "method": "feature_deletion (top-k coefficient contributions)",
+  "deletion_k": 5,
+  "num_test_instances": 36,
+  "avg_confidence_drop": 0.7094,
+  "median_confidence_drop": 0.6708,
+  "std_confidence_drop": 0.2099,
+  "prediction_flip_rate": 0.75,
+  "max_confidence_drop": 1.0,
+  "min_confidence_drop": 0.1973
+}

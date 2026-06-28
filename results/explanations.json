@@ -1,0 +1,672 @@
+[
+  {
+    "person": "http://www.aifb.uni-karlsruhe.de/Personen/viewPersonOWL/id1855instance",
+    "person_name": "Uwe Kersten",
+    "true_label": "Business Information Systems",
+    "predicted_label": "Business Information Systems",
+    "predicted_probability": 0.9674,
+    "correct": true,
+    "confidence_drop_after_deletion": 0.4451,
+    "top_features": [
+      {
+        "feature": "pair__affiliation__id1instance",
+        "feature_readable": "pair: affiliation \u2192 id1instance",
+        "value": 1.0,
+        "weight": 2.219634275064098,
+        "contribution": 2.219634275064098
+      },
+      {
+        "feature": "literal__homepage",
+        "feature_readable": "literal: homepage",
+        "value": 1.0,
+        "weight": 0.07214139333858248,
+        "contribution": 0.07214139333858248
+      },
+      {
+        "feature": "out__homepage",
+        "feature_readable": "out: homepage",
+        "value": 1.0,
+        "weight": 0.07214139333858248,
+        "contribution": 0.07214139333858248
+      },
+      {
+        "feature": "literal__fax",
+        "feature_readable": "literal: fax",
+        "value": 1.0,
+        "weight": -0.003573927192917486,
+        "contribution": -0.003573927192917486
+      },
+      {
+        "feature": "literal__name",
+        "feature_readable": "literal: name",
+        "value": 1.0,
+        "weight": -0.003573927192917486,
+        "contribution": -0.003573927192917486
+      },
+      {
+        "feature": "literal__phone",
+        "feature_readable": "literal: phone",
+        "value": 1.0,
+        "weight": -0.003573927192917486,
+        "contribution": -0.003573927192917486
+      },
+      {
+        "feature": "objtype__affiliation__ResearchGroup",
+        "feature_readable": "objtype: affiliation \u2192 ResearchGroup",
+        "value": 1.0,
+        "weight": -0.003573927192917486,
+        "contribution": -0.003573927192917486
+      },
+      {
+        "feature": "out__affiliation",
+        "feature_readable": "out: affiliation",
+        "value": 1.0,
+        "weight": -0.003573927192917486,
+        "contribution": -0.003573927192917486
+      }
+    ]
+  },
+  {
+    "person": "http://www.aifb.uni-karlsruhe.de/Personen/viewPersonOWL/id60instance",
+    "person_name": "Hans-Peter Schnurr",
+    "true_label": "Knowledge Management",
+    "predicted_label": "Knowledge Management",
+    "predicted_probability": 0.981,
+    "correct": true,
+    "confidence_drop_after_deletion": 0.9567,
+    "top_features": [
+      {
+        "feature": "objtype__publication__InProceedings",
+        "feature_readable": "objtype: publication \u2192 InProceedings",
+        "value": 14.0,
+        "weight": 0.2883933702773476,
+        "contribution": 4.037507183882867
+      },
+      {
+        "feature": "pair__affiliation__id3instance",
+        "feature_readable": "pair: affiliation \u2192 id3instance",
+        "value": 1.0,
+        "weight": 1.9216601539908005,
+        "contribution": 1.9216601539908005
+      },
+      {
+        "feature": "objtype__publication__TechnicalReport",
+        "feature_readable": "objtype: publication \u2192 TechnicalReport",
+        "value": 5.0,
+        "weight": 0.26510194348536004,
+        "contribution": 1.3255097174268002
+      },
+      {
+        "feature": "in__author",
+        "feature_readable": "in: author",
+        "value": 23.0,
+        "weight": 0.04131323835896212,
+        "contribution": 0.9502044822561287
+      },
+      {
+        "feature": "pair__publication__id1077instance",
+        "feature_readable": "pair: publication \u2192 id1077instance",
+        "value": 1.0,
+        "weight": 0.01892912780505737,
+        "contribution": 0.01892912780505737
+      },
+      {
+        "feature": "pair__publication__id248instance",
+        "feature_readable": "pair: publication \u2192 id248instance",
+        "value": 1.0,
+        "weight": 0.012753017905510849,
+        "contribution": 0.012753017905510849
+      },
+      {
+        "feature": "pair__publication__id515instance",
+        "feature_readable": "pair: publication \u2192 id515instance",
+        "value": 1.0,
+        "weight": 0.009301462834066762,
+        "contribution": 0.009301462834066762
+      },
+      {
+        "feature": "pair__publication__id534instance",
+        "feature_readable": "pair: publication \u2192 id534instance",
+        "value": 1.0,
+        "weight": 0.009301462834066762,
+        "contribution": 0.009301462834066762
+      }
+    ]
+  },
+  {
+    "person": "http://www.aifb.uni-karlsruhe.de/Personen/viewPersonOWL/id37instance",
+    "person_name": "Daniel Merkle",
+    "true_label": "Efficient Algorithms",
+    "predicted_label": "Efficient Algorithms",
+    "predicted_probability": 0.9209,
+    "correct": true,
+    "confidence_drop_after_deletion": 0.8537,
+    "top_features": [
+      {
+        "feature": "pair__affiliation__id2instance",
+        "feature_readable": "pair: affiliation \u2192 id2instance",
+        "value": 1.0,
+        "weight": 1.975748577196364,
+        "contribution": 1.975748577196364
+      },
+      {
+        "feature": "objtype__publication__Article",
+        "feature_readable": "objtype: publication \u2192 Article",
+        "value": 4.0,
+        "weight": 0.21171571327102479,
+        "contribution": 0.8468628530840991
+      },
+      {
+        "feature": "objtype__worksAtProject__Project",
+        "feature_readable": "objtype: worksAtProject \u2192 Project",
+        "value": 2.0,
+        "weight": 0.13837634359994205,
+        "contribution": 0.2767526871998841
+      },
+      {
+        "feature": "out__worksAtProject",
+        "feature_readable": "out: worksAtProject",
+        "value": 2.0,
+        "weight": 0.13837634359994205,
+        "contribution": 0.2767526871998841
+      },
+      {
+        "feature": "in__isWorkedOnBy",
+        "feature_readable": "in: isWorkedOnBy",
+        "value": 6.0,
+        "weight": 0.012661302405695862,
+        "contribution": 0.07596781443417516
+      },
+      {
+        "feature": "objtype__publication__Publication",
+        "feature_readable": "objtype: publication \u2192 Publication",
+        "value": 13.0,
+        "weight": 0.005548010569471561,
+        "contribution": 0.0721241374031303
+      },
+      {
+        "feature": "out__publication",
+        "feature_readable": "out: publication",
+        "value": 13.0,
+        "weight": 0.005548010569471561,
+        "contribution": 0.0721241374031303
+      },
+      {
+        "feature": "pair__worksAtProject__id9instance",
+        "feature_readable": "pair: worksAtProject \u2192 id9instance",
+        "value": 1.0,
+        "weight": 0.06981554206775488,
+        "contribution": 0.06981554206775488
+      }
+    ]
+  },
+  {
+    "person": "http://www.aifb.uni-karlsruhe.de/Personen/viewPersonOWL/id2078instance",
+    "person_name": "Steffen Lamparter",
+    "true_label": "Knowledge Management",
+    "predicted_label": "Knowledge Management",
+    "predicted_probability": 0.9964,
+    "correct": true,
+    "confidence_drop_after_deletion": 0.9494,
+    "top_features": [
+      {
+        "feature": "objtype__publication__InProceedings",
+        "feature_readable": "objtype: publication \u2192 InProceedings",
+        "value": 14.0,
+        "weight": 0.2883933702773476,
+        "contribution": 4.037507183882867
+      },
+      {
+        "feature": "pair__affiliation__id3instance",
+        "feature_readable": "pair: affiliation \u2192 id3instance",
+        "value": 1.0,
+        "weight": 1.9216601539908005,
+        "contribution": 1.9216601539908005
+      },
+      {
+        "feature": "in__author",
+        "feature_readable": "in: author",
+        "value": 18.0,
+        "weight": 0.04131323835896212,
+        "contribution": 0.7436382904613181
+      },
+      {
+        "feature": "objtype__publication__TechnicalReport",
+        "feature_readable": "objtype: publication \u2192 TechnicalReport",
+        "value": 2.0,
+        "weight": 0.26510194348536004,
+        "contribution": 0.5302038869707201
+      },
+      {
+        "feature": "objtype__worksAtProject__Project",
+        "feature_readable": "objtype: worksAtProject \u2192 Project",
+        "value": 3.0,
+        "weight": 0.12257950979995921,
+        "contribution": 0.3677385293998776
+      },
+      {
+        "feature": "out__worksAtProject",
+        "feature_readable": "out: worksAtProject",
+        "value": 3.0,
+        "weight": 0.12257950979995921,
+        "contribution": 0.3677385293998776
+      },
+      {
+        "feature": "pair__worksAtProject__id56instance",
+        "feature_readable": "pair: worksAtProject \u2192 id56instance",
+        "value": 1.0,
+        "weight": 0.18452804452820853,
+        "contribution": 0.18452804452820853
+      },
+      {
+        "feature": "pair__publication__id995instance",
+        "feature_readable": "pair: publication \u2192 id995instance",
+        "value": 1.0,
+        "weight": 0.08571245993748576,
+        "contribution": 0.08571245993748576
+      }
+    ]
+  },
+  {
+    "person": "http://www.aifb.uni-karlsruhe.de/Personen/viewPersonOWL/id1868instance",
+    "person_name": "Thomas Mochel",
+    "true_label": "Business Information Systems",
+    "predicted_label": "Business Information Systems",
+    "predicted_probability": 0.9584,
+    "correct": true,
+    "confidence_drop_after_deletion": 0.4334,
+    "top_features": [
+      {
+        "feature": "pair__affiliation__id1instance",
+        "feature_readable": "pair: affiliation \u2192 id1instance",
+        "value": 1.0,
+        "weight": 2.219634275064098,
+        "contribution": 2.219634275064098
+      },
+      {
+        "feature": "literal__fax",
+        "feature_readable": "literal: fax",
+        "value": 1.0,
+        "weight": -0.003573927192917486,
+        "contribution": -0.003573927192917486
+      },
+      {
+        "feature": "literal__name",
+        "feature_readable": "literal: name",
+        "value": 1.0,
+        "weight": -0.003573927192917486,
+        "contribution": -0.003573927192917486
+      },
+      {
+        "feature": "literal__phone",
+        "feature_readable": "literal: phone",
+        "value": 1.0,
+        "weight": -0.003573927192917486,
+        "contribution": -0.003573927192917486
+      },
+      {
+        "feature": "objtype__affiliation__ResearchGroup",
+        "feature_readable": "objtype: affiliation \u2192 ResearchGroup",
+        "value": 1.0,
+        "weight": -0.003573927192917486,
+        "contribution": -0.003573927192917486
+      },
+      {
+        "feature": "out__affiliation",
+        "feature_readable": "out: affiliation",
+        "value": 1.0,
+        "weight": -0.003573927192917486,
+        "contribution": -0.003573927192917486
+      },
+      {
+        "feature": "out__fax",
+        "feature_readable": "out: fax",
+        "value": 1.0,
+        "weight": -0.003573927192917486,
+        "contribution": -0.003573927192917486
+      },
+      {
+        "feature": "out__name",
+        "feature_readable": "out: name",
+        "value": 1.0,
+        "weight": -0.003573927192917486,
+        "contribution": -0.003573927192917486
+      }
+    ]
+  },
+  {
+    "person": "http://www.aifb.uni-karlsruhe.de/Personen/viewPersonOWL/id32instance",
+    "person_name": "Nenad Stojanovic",
+    "true_label": "Knowledge Management",
+    "predicted_label": "Knowledge Management",
+    "predicted_probability": 0.9989,
+    "correct": true,
+    "confidence_drop_after_deletion": 0.9972,
+    "top_features": [
+      {
+        "feature": "objtype__publication__InProceedings",
+        "feature_readable": "objtype: publication \u2192 InProceedings",
+        "value": 46.0,
+        "weight": 0.2883933702773476,
+        "contribution": 13.26609503275799
+      },
+      {
+        "feature": "in__author",
+        "feature_readable": "in: author",
+        "value": 52.0,
+        "weight": 0.04131323835896212,
+        "contribution": 2.14828839466603
+      },
+      {
+        "feature": "pair__affiliation__id3instance",
+        "feature_readable": "pair: affiliation \u2192 id3instance",
+        "value": 1.0,
+        "weight": 1.9216601539908005,
+        "contribution": 1.9216601539908005
+      },
+      {
+        "feature": "pair__publication__id218instance",
+        "feature_readable": "pair: publication \u2192 id218instance",
+        "value": 1.0,
+        "weight": 0.0767988455914956,
+        "contribution": 0.0767988455914956
+      },
+      {
+        "feature": "pair__publication__id864instance",
+        "feature_readable": "pair: publication \u2192 id864instance",
+        "value": 1.0,
+        "weight": 0.07430208101473056,
+        "contribution": 0.07430208101473056
+      },
+      {
+        "feature": "pair__publication__id280instance",
+        "feature_readable": "pair: publication \u2192 id280instance",
+        "value": 1.0,
+        "weight": 0.06427684526294937,
+        "contribution": 0.06427684526294937
+      },
+      {
+        "feature": "pair__publication__id152instance",
+        "feature_readable": "pair: publication \u2192 id152instance",
+        "value": 1.0,
+        "weight": 0.05493648793739268,
+        "contribution": 0.05493648793739268
+      },
+      {
+        "feature": "pair__publication__id365instance",
+        "feature_readable": "pair: publication \u2192 id365instance",
+        "value": 1.0,
+        "weight": 0.05459491231705109,
+        "contribution": 0.05459491231705109
+      }
+    ]
+  },
+  {
+    "person": "http://www.aifb.uni-karlsruhe.de/Personen/viewPersonOWL/id1989instance",
+    "person_name": "Bernhadr K\u00c3\u00b6lmel",
+    "true_label": "Business Information Systems",
+    "predicted_label": "Business Information Systems",
+    "predicted_probability": 0.9584,
+    "correct": true,
+    "confidence_drop_after_deletion": 0.4334,
+    "top_features": [
+      {
+        "feature": "pair__affiliation__id1instance",
+        "feature_readable": "pair: affiliation \u2192 id1instance",
+        "value": 1.0,
+        "weight": 2.219634275064098,
+        "contribution": 2.219634275064098
+      },
+      {
+        "feature": "literal__fax",
+        "feature_readable": "literal: fax",
+        "value": 1.0,
+        "weight": -0.003573927192917486,
+        "contribution": -0.003573927192917486
+      },
+      {
+        "feature": "literal__name",
+        "feature_readable": "literal: name",
+        "value": 1.0,
+        "weight": -0.003573927192917486,
+        "contribution": -0.003573927192917486
+      },
+      {
+        "feature": "literal__phone",
+        "feature_readable": "literal: phone",
+        "value": 1.0,
+        "weight": -0.003573927192917486,
+        "contribution": -0.003573927192917486
+      },
+      {
+        "feature": "objtype__affiliation__ResearchGroup",
+        "feature_readable": "objtype: affiliation \u2192 ResearchGroup",
+        "value": 1.0,
+        "weight": -0.003573927192917486,
+        "contribution": -0.003573927192917486
+      },
+      {
+        "feature": "out__affiliation",
+        "feature_readable": "out: affiliation",
+        "value": 1.0,
+        "weight": -0.003573927192917486,
+        "contribution": -0.003573927192917486
+      },
+      {
+        "feature": "out__fax",
+        "feature_readable": "out: fax",
+        "value": 1.0,
+        "weight": -0.003573927192917486,
+        "contribution": -0.003573927192917486
+      },
+      {
+        "feature": "out__name",
+        "feature_readable": "out: name",
+        "value": 1.0,
+        "weight": -0.003573927192917486,
+        "contribution": -0.003573927192917486
+      }
+    ]
+  },
+  {
+    "person": "http://www.aifb.uni-karlsruhe.de/Personen/viewPersonOWL/id1876instance",
+    "person_name": "Andreas Oberweis",
+    "true_label": "Business Information Systems",
+    "predicted_label": "Business Information Systems",
+    "predicted_probability": 0.9885,
+    "correct": true,
+    "confidence_drop_after_deletion": 0.9878,
+    "top_features": [
+      {
+        "feature": "objtype__publication__InProceedings",
+        "feature_readable": "objtype: publication \u2192 InProceedings",
+        "value": 30.0,
+        "weight": 0.2580002972553437,
+        "contribution": 7.74000891766031
+      },
+      {
+        "feature": "pair__affiliation__id1instance",
+        "feature_readable": "pair: affiliation \u2192 id1instance",
+        "value": 1.0,
+        "weight": 2.219634275064098,
+        "contribution": 2.219634275064098
+      },
+      {
+        "feature": "in__editor",
+        "feature_readable": "in: editor",
+        "value": 6.0,
+        "weight": 0.05171074103734107,
+        "contribution": 0.3102644462240464
+      },
+      {
+        "feature": "objtype__publication__Proceedings",
+        "feature_readable": "objtype: publication \u2192 Proceedings",
+        "value": 6.0,
+        "weight": 0.04556551936186283,
+        "contribution": 0.273393116171177
+      },
+      {
+        "feature": "pair__publication__id1272instance",
+        "feature_readable": "pair: publication \u2192 id1272instance",
+        "value": 1.0,
+        "weight": 0.24805236093106853,
+        "contribution": 0.24805236093106853
+      },
+      {
+        "feature": "pair__publication__id1271instance",
+        "feature_readable": "pair: publication \u2192 id1271instance",
+        "value": 1.0,
+        "weight": 0.14584824980289673,
+        "contribution": 0.14584824980289673
+      },
+      {
+        "feature": "pair__worksAtProject__id36instance",
+        "feature_readable": "pair: worksAtProject \u2192 id36instance",
+        "value": 1.0,
+        "weight": 0.1260977482057068,
+        "contribution": 0.1260977482057068
+      },
+      {
+        "feature": "pair__publication__id1194instance",
+        "feature_readable": "pair: publication \u2192 id1194instance",
+        "value": 1.0,
+        "weight": 0.11874098087655095,
+        "contribution": 0.11874098087655095
+      }
+    ]
+  },
+  {
+    "person": "http://www.aifb.uni-karlsruhe.de/Personen/viewPersonOWL/id2151instance",
+    "person_name": "Maik Herfurth",
+    "true_label": "Business Information Systems",
+    "predicted_label": "Business Information Systems",
+    "predicted_probability": 0.812,
+    "correct": true,
+    "confidence_drop_after_deletion": 0.6263,
+    "top_features": [
+      {
+        "feature": "pair__affiliation__id1instance",
+        "feature_readable": "pair: affiliation \u2192 id1instance",
+        "value": 1.0,
+        "weight": 2.219634275064098,
+        "contribution": 2.219634275064098
+      },
+      {
+        "feature": "pair__worksAtProject__id79instance",
+        "feature_readable": "pair: worksAtProject \u2192 id79instance",
+        "value": 1.0,
+        "weight": 0.05869777097884123,
+        "contribution": 0.05869777097884123
+      },
+      {
+        "feature": "literal__fax",
+        "feature_readable": "literal: fax",
+        "value": 1.0,
+        "weight": -0.003573927192917486,
+        "contribution": -0.003573927192917486
+      },
+      {
+        "feature": "literal__name",
+        "feature_readable": "literal: name",
+        "value": 1.0,
+        "weight": -0.003573927192917486,
+        "contribution": -0.003573927192917486
+      },
+      {
+        "feature": "literal__phone",
+        "feature_readable": "literal: phone",
+        "value": 1.0,
+        "weight": -0.003573927192917486,
+        "contribution": -0.003573927192917486
+      },
+      {
+        "feature": "objtype__affiliation__ResearchGroup",
+        "feature_readable": "objtype: affiliation \u2192 ResearchGroup",
+        "value": 1.0,
+        "weight": -0.003573927192917486,
+        "contribution": -0.003573927192917486
+      },
+      {
+        "feature": "out__affiliation",
+        "feature_readable": "out: affiliation",
+        "value": 1.0,
+        "weight": -0.003573927192917486,
+        "contribution": -0.003573927192917486
+      },
+      {
+        "feature": "out__fax",
+        "feature_readable": "out: fax",
+        "value": 1.0,
+        "weight": -0.003573927192917486,
+        "contribution": -0.003573927192917486
+      }
+    ]
+  },
+  {
+    "person": "http://www.aifb.uni-karlsruhe.de/Personen/viewPersonOWL/id1970instance",
+    "person_name": "Armin Fost",
+    "true_label": "Business Information Systems",
+    "predicted_label": "Business Information Systems",
+    "predicted_probability": 0.9674,
+    "correct": true,
+    "confidence_drop_after_deletion": 0.4451,
+    "top_features": [
+      {
+        "feature": "pair__affiliation__id1instance",
+        "feature_readable": "pair: affiliation \u2192 id1instance",
+        "value": 1.0,
+        "weight": 2.219634275064098,
+        "contribution": 2.219634275064098
+      },
+      {
+        "feature": "literal__homepage",
+        "feature_readable": "literal: homepage",
+        "value": 1.0,
+        "weight": 0.07214139333858248,
+        "contribution": 0.07214139333858248
+      },
+      {
+        "feature": "out__homepage",
+        "feature_readable": "out: homepage",
+        "value": 1.0,
+        "weight": 0.07214139333858248,
+        "contribution": 0.07214139333858248
+      },
+      {
+        "feature": "literal__fax",
+        "feature_readable": "literal: fax",
+        "value": 1.0,
+        "weight": -0.003573927192917486,
+        "contribution": -0.003573927192917486
+      },
+      {
+        "feature": "literal__name",
+        "feature_readable": "literal: name",
+        "value": 1.0,
+        "weight": -0.003573927192917486,
+        "contribution": -0.003573927192917486
+      },
+      {
+        "feature": "literal__phone",
+        "feature_readable": "literal: phone",
+        "value": 1.0,
+        "weight": -0.003573927192917486,
+        "contribution": -0.003573927192917486
+      },
+      {
+        "feature": "objtype__affiliation__ResearchGroup",
+        "feature_readable": "objtype: affiliation \u2192 ResearchGroup",
+        "value": 1.0,
+        "weight": -0.003573927192917486,
+        "contribution": -0.003573927192917486
+      },
+      {
+        "feature": "out__affiliation",
+        "feature_readable": "out: affiliation",
+        "value": 1.0,
+        "weight": -0.003573927192917486,
+        "contribution": -0.003573927192917486
+      }
+    ]
+  }
+]
